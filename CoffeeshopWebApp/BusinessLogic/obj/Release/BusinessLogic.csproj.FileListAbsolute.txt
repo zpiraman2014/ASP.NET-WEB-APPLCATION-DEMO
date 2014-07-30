@@ -1,0 +1,9 @@
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessLogic\obj\Release\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessLogic\bin\Release\BusinessLogic.dll
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessLogic\bin\Release\BusinessLogic.pdb
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessLogic\bin\Release\DataAccess.dll
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessLogic\bin\Release\BusinessObject.dll
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessLogic\bin\Release\DataAccess.pdb
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessLogic\bin\Release\BusinessObject.pdb
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessLogic\obj\Release\BusinessLogic.pdb

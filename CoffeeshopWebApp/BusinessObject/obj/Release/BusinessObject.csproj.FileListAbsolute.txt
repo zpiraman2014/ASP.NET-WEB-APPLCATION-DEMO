@@ -1,0 +1,4 @@
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessObject\bin\Release\BusinessObject.dll
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessObject\bin\Release\BusinessObject.pdb
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessObject\obj\Release\BusinessObject.dll
+C:\Users\zpira_000\documents\visual studio 2010\Projects\CoffeeshopWebApp\BusinessObject\obj\Release\BusinessObject.pdb

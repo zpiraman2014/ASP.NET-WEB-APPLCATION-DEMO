@@ -1,0 +1,7 @@
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\DataAccess\bin\Debug\BusinessObject.dll
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\DataAccess\bin\Debug\BusinessObject.pdb
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\DataAccess\obj\Debug\DataAccess.pdb

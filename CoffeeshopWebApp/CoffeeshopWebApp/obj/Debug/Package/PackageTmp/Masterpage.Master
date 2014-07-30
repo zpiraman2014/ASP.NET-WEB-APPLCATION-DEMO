@@ -1,0 +1,100 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.master.cs" Inherits="CoffeeshopWebApp.Masterpage" %>
+
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>my website</title>
+    <link rel="stylesheet" type="text/css" href="~/Styles/StyleSheet.css"/>
+   <script src="JavaScript/jquery-2.1.1.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#nav li').hover(function () {
+                $(this).find('ul').css({ visibility: "visible", display: "none" }).show(400);
+            }
+            , function () {
+                $(this).find('ul').css({ visibility: "hidden" });
+            });
+
+        });
+
+        $(document).ready(function () {
+            $('[id$=asignout]').click(function () {
+                var data = {
+                    "user": ""
+                };
+          
+
+                $.ajax({
+                    type: "POST",
+                    url: "SignIn.aspx/SignOut",
+                    data: JSON.stringify(data),
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (msg) {
+                        alert(msg.d);
+                    }
+                });
+
+
+            });
+        });
+    </script>
+
+        
+   
+    <style type="text/css">
+        .style1
+        {
+            width: 247px;
+            height: 397px;
+        }
+    </style>
+
+        
+   
+</head>
+<body>
+
+    <form id="form1" runat="server">
+        <div id ="wrapper">
+            <div id="banner">
+            </div>
+
+            <div id="navigation">
+                <ul id="nav">
+                    <li><a href="index.aspx">Home</a></li>
+                    <li><a href="Coffee.aspx">Coffee</a>
+                        <ul>
+                            <li><a id="coffeex" href="#">Regular</a></li>
+                            <li><a href="#">Espresso</a></li>
+                            <li><a href="#">Latte</a></li>
+                        </ul>
+                        </li>
+                    <li id="management"><a href="Management.aspx">Management</a></li>
+                    <li id="signout" runat="server"><a id="asignout" href="Coffee.aspx">Sign out</a></li>
+                    <li id="signin" runat="server"><a href="SignIn.aspx">Sign in</a></li>
+                    <li id="lisignin">
+                        <asp:HyperLink ID="HyperLink1" runat="server" ForeColor="White"></asp:HyperLink>
+                      </li>
+                </ul>
+            </div>
+            <div id="content_area">
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+
+            </div>
+            <div id="sidebar">
+                <img alt="" class="style1" src="Images/download.jpg" /></div>
+
+            <div id="footer">
+                <p style="color:white"> All rights reserved</p>
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>

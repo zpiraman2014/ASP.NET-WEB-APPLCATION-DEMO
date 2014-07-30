@@ -1,0 +1,11 @@
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\obj\Debug\CoffeeshopWebApp.csprojResolveAssemblyReference.cache
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\bin\CoffeeshopWebApp.dll
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\bin\CoffeeshopWebApp.pdb
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\bin\BusinessLogic.dll
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\bin\BusinessObject.dll
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\bin\DataAccess.dll
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\bin\BusinessLogic.pdb
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\bin\BusinessObject.pdb
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\bin\DataAccess.pdb
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\obj\Debug\CoffeeshopWebApp.dll
+C:\Users\zpira_000\Documents\Visual Studio 2010\Projects\CoffeeshopWebApp\CoffeeshopWebApp\obj\Debug\CoffeeshopWebApp.pdb
